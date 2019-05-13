@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,6 @@
 ## Issues
 
 
+=======
+# SFDX-Test
+>>>>>>> b59dcc56c60a5699455741b17416b4aabf106c5d
