@@ -1,0 +1,127 @@
+[
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557714886436,
+            "changeTime": 1557714886436,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557714886437,
+            "changeTime": 1557714886437,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557718970231,
+            "changeTime": 1557718970231,
+            "contentHash": "ea8213549ceb981dada921d6889950541191d99d"
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557714886437,
+            "changeTime": 1557714886437,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557716685690,
+            "changeTime": 1557716685690,
+            "contentHash": "efad48c431168912783fb29338f4d3ea0ae25371",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1557718970228,
+            "changeTime": 1557718970228,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\flows\\New_Contact.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\flows\\New_Contact.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3891,
+            "modifiedTime": 1557718970233,
+            "changeTime": 1557718970233,
+            "contentHash": "809dadaf2589e5d95a8e0f696fd3925e2959b88e"
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557718970227,
+            "changeTime": 1557718970227,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\flows",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\josel\\SFDX\\SFDX-Test\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557718970232,
+            "changeTime": 1557718970232,
+            "contentHash": "1e04a61703de84916b6cd6a651bfafc764f537a7"
+        }
+    ]
+]
